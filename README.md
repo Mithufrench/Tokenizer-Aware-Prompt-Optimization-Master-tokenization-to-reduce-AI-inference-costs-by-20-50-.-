@@ -1,0 +1,2 @@
+# Tokenizer-Aware-Prompt-Optimization-Master-tokenization-to-reduce-AI-inference-costs-by-20-50-.-
+Most people use LLMs (ChatGPT, Claude, Grok, Gemini, etc.) for jokes and low-value content — wasting millions of tokens daily.  This repo presents **Tokenizer-Aware Prompt Optimization**: Master tokenization to reduce AI costs by 20-50%+. Includes proposal paper, code examples, and roadmap for meaningful AI usage.  By Mohammad Saiful Islam
